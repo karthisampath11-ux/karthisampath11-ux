@@ -138,21 +138,11 @@ AI-powered computer vision project using YOLOv8 and OpenCV to detect personal pr
 
 <p align="center">
 
-<a href="https://karthikeyan-portfolio-rust.vercel.app/">
-🌐 Portfolio
-</a>
-
+<a href="https://karthikeyan-portfolio-rust.vercel.app/">🌐 Portfolio</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="www.linkedin.com/in/karthi-keyan-ai">
-LinkedIn
-</a>
-
+<a href="www.linkedin.com/in/karthi-keyan-ai">LinkedIn</a>
 &nbsp;&nbsp;•&nbsp;&nbsp;
-
-<a href="mailto:karthisampath11@gmail.com">
-Email
-</a>
+<a href="mailto:karthisampath11@gmail.com">Email</a>
 
 </p>
 
@@ -170,4 +160,8 @@ Email
 
 ⭐ Thanks for visiting my profile!
 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=karthisampath11-ux&label=Profile%20Views&color=4F8CFF&style=for-the-badge" alt="Profile Views"/>
 </p>
