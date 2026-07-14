@@ -158,6 +158,14 @@ Email
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/karthisampath11-ux/karthisampath11-ux/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+</p>
+
+---
+
 <p align="center">
 
 ⭐ Thanks for visiting my profile!
