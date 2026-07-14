@@ -77,15 +77,34 @@
 ![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 ---
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🌐 **Portfolio Website** | Modern responsive portfolio built with HTML, CSS & JavaScript |
-| 🤖 **GenAI Compliance Extraction System** | AI-powered compliance extraction using Gemini API |
-| 📊 **Netflix Power BI Dashboard** | Interactive Power BI dashboard with DAX & Power Query |
-| 🦺 **PPE Compliance Monitoring** | YOLOv8 real-time safety compliance monitoring |
+### 🌐 Karthikeyan Portfolio
+Modern responsive portfolio built with HTML, CSS and JavaScript.
 
+🔗 https://karthikeyan-portfolio-rust.vercel.app/
+
+📂 https://github.com/karthisampath11-ux/karthikeyan-portfolio
+
+---
+
+### 📊 Netflix Power BI Dashboard
+
+Interactive dashboard analyzing Netflix content performance.
+
+📂 https://github.com/karthisampath11-ux/Netflix-PowerBI-Dashboard
+
+---
+
+### 🤖 GenAI Compliance Extraction System
+
+Built a multi-model AI pipeline using Gemini, Claude and Llama with structured outputs and evaluation.
+
+---
+
+### 🦺 PPE Compliance Monitoring
+
+Real-time PPE detection using YOLOv8 and OpenCV.
 ---
 
 # 📈 GitHub Statistics
