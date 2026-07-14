@@ -5,27 +5,13 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=850&lines=AI+Engineer;Generative+AI+Engineer;Python+Developer;SQL+Developer;Data+Analyst" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=4F8CFF&center=true&vCenter=true&width=950&lines=AI+Engineer;Generative+AI+Engineer;Python+Developer;SQL+Developer;Data+Analyst" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-
-<a href="https://karthikeyan-portfolio-rust.vercel.app/">
-🌐 Portfolio
-</a>
-
-•
-
-<a href="www.linkedin.com/in/karthi-keyan-ai">
-LinkedIn
-</a>
-
-•
-
-<a href="mailto:karthisampath11@gmail.com">
-Email
-</a>
-
+  <a href="https://karthikeyan-portfolio-rust.vercel.app/">🌐 Portfolio</a> •
+  <a href="YOUR_LINKEDIN_URL">LinkedIn</a> •
+  <a href="mailto:karthisampath11@gmail.com">Email</a>
 </p>
 
 ---
