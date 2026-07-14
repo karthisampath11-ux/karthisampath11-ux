@@ -113,14 +113,6 @@ Interactive Power BI dashboard analyzing Netflix content performance, genre dist
 AI-powered computer vision project using YOLOv8 and OpenCV to detect personal protective equipment compliance in real time.
 
 > 🚧 Repository will be published soon.
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karthisampath11-ux&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthisampath11-ux&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
@@ -128,16 +120,6 @@ AI-powered computer vision project using YOLOv8 and OpenCV to detect personal pr
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=karthisampath11-ux&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=karthisampath11-ux&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
 </p>
 
 ---
