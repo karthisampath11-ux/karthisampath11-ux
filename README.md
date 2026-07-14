@@ -31,7 +31,7 @@
 🚀 Always learning and building real-world projects.
 
 ---
-## 💻 Technologies I Work With
+## ⚡ Core Technologies
 
 ### Programming
 
@@ -75,6 +75,8 @@
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square)
 ![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+
+---
 # 🚀 Featured Projects
 
 | Project | Description |
