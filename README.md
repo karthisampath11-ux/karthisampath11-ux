@@ -35,47 +35,46 @@
 
 ### Programming
 
-![Python](https://img.shields.io/badge/Python-4F8CFF?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4F8CFF?style=for-the-badge)
-![MySQL](https://img.shields.io/badge/MySQL-4F8CFF?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ### Artificial Intelligence
 
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-4F8CFF?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-4F8CFF?style=for-the-badge)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-4F8CFF?style=for-the-badge)
-![Generative AI](https://img.shields.io/badge/Generative_AI-4F8CFF?style=for-the-badge)
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E24AA?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square)
 
 ### Large Language Models
 
-![Google Gemini](https://img.shields.io/badge/Google_Gemini_API-4F8CFF?style=for-the-badge&logo=google&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_API-4F8CFF?style=for-the-badge)
-![Groq Llama](https://img.shields.io/badge/Groq_Llama_3-4F8CFF?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google)
+![Claude](https://img.shields.io/badge/Claude-111111?style=flat-square)
+![Llama 3](https://img.shields.io/badge/Llama_3-0088CC?style=flat-square)
 
-### Prompt Engineering & Validation
+### Prompt Engineering
 
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-4F8CFF?style=for-the-badge)
-![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-4F8CFF?style=for-the-badge)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-4F8CFF?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-4F8CFF?style=for-the-badge)
-![JSON Schema](https://img.shields.io/badge/JSON_Schema-4F8CFF?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-0A66C2?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-E65100?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![JSON Schema](https://img.shields.io/badge/JSON_Schema-009688?style=flat-square)
 
 ### Data Analytics
 
-![Power BI](https://img.shields.io/badge/Power_BI-4F8CFF?style=for-the-badge&logo=powerbi&logoColor=white)
-![Power Query](https://img.shields.io/badge/Power_Query-4F8CFF?style=for-the-badge)
-![DAX](https://img.shields.io/badge/DAX-4F8CFF?style=for-the-badge)
-![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-4F8CFF?style=for-the-badge)
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-4F8CFF?style=for-the-badge)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-3949AB?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E88E5?style=flat-square)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-4F8CFF?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-4F8CFF?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-4F8CFF?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4F8CFF?style=for-the-badge)
-![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-4F8CFF?style=for-the-badge)
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square)
+![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 # 🚀 Featured Projects
 
 | Project | Description |
