@@ -31,62 +31,29 @@
 🚀 Always learning and building real-world projects.
 
 ---
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<table align="center">
+### Programming
+`Python` `SQL` `MySQL`
 
-<tr>
+### Artificial Intelligence
+`Generative AI` `Machine Learning` `Deep Learning` `Computer Vision`
 
-<td valign="top" width="25%">
+### Large Language Models
+`Google Gemini API` `Claude API` `Groq Llama 3`
 
-### 💻 Programming
+### Generative AI
+`Prompt Engineering` `Structured Outputs` `LLM Evaluation`
+`Pydantic` `JSON Schema Validation`
 
-- 🐍 Python
-- 🗄️ SQL
-- 💾 MySQL
+### Data Analytics
+`Power BI` `Power Query` `DAX`
+`Dashboard Development` `Data Visualization`
 
-</td>
-
-<td valign="top" width="25%">
-
-### 🤖 AI & GenAI
-
-- Generative AI
-- Prompt Engineering
-- LLM Evaluation
-- Structured Outputs
-- Pydantic
-- JSON Schema
-
-</td>
-
-<td valign="top" width="25%">
-
-### 📊 Data Analytics
-
-- Power BI
-- Power Query
-- DAX
-- Dashboard Development
-- Data Visualization
-
-</td>
-
-<td valign="top" width="25%">
-
-### 🛠️ Tools
-
-- Git
-- GitHub
-- VS Code
-- MySQL Workbench
-- Power BI Desktop
-
-</td>
-
-</tr>
-
-</table>
+### Tools
+`Git` `GitHub` `VS Code`
+`MySQL Workbench`
+`Power BI Desktop`
 
 ---
 
