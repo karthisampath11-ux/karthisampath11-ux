@@ -33,95 +33,77 @@
 ---
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+<table align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,mysql" />
-</p>
+<tr>
 
----
+<td valign="top" width="25%">
 
-### 🤖 Artificial Intelligence & Generative AI
+### 💻 Programming
 
-<p>
+- 🐍 Python
+- 🗄️ SQL
+- 💾 MySQL
 
-<img src="https://img.shields.io/badge/Generative_AI-4285F4?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/Prompt_Engineering-6A5ACD?style=for-the-badge"/>
+<td valign="top" width="25%">
 
-<img src="https://img.shields.io/badge/LLM_Evaluation-FF6F00?style=for-the-badge"/>
+### 🤖 AI & GenAI
 
-<img src="https://img.shields.io/badge/Structured_Outputs-0A66C2?style=for-the-badge"/>
+- Generative AI
+- Prompt Engineering
+- LLM Evaluation
+- Structured Outputs
+- Pydantic
+- JSON Schema
 
-<img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge"/>
+</td>
 
-<img src="https://img.shields.io/badge/JSON_Schema-00897B?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🧠 LLM Platforms
-
-<p>
-
-<img src="https://img.shields.io/badge/Google_Gemini_API-4285F4?style=for-the-badge&logo=google"/>
-
-<img src="https://img.shields.io/badge/Claude_API-111111?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Llama_3-0088CC?style=for-the-badge"/>
-
-</p>
-
----
+<td valign="top" width="25%">
 
 ### 📊 Data Analytics
 
-<p>
+- Power BI
+- Power Query
+- DAX
+- Dashboard Development
+- Data Visualization
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</td>
 
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Data_Visualization-1E88E5?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Dashboard_Development-3949AB?style=for-the-badge"/>
-
-</p>
-
----
-
-### 🤖 AI & Machine Learning
-
-<p>
-
-<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Deep_Learning-8E24AA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Computer_Vision-5C2D91?style=for-the-badge"/>
-
-</p>
-
----
+<td valign="top" width="25%">
 
 ### 🛠️ Tools
 
-<p>
+- Git
+- GitHub
+- VS Code
+- MySQL Workbench
+- Power BI Desktop
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</td>
 
-</p>
+</tr>
 
-<p>
+</table>
 
-<img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge"/>
+---
 
-<img src="https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### 🧠 AI & Machine Learning
 
-</p>
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- OpenCV
+
+---
+
+### 🚀 LLM Platforms
+
+- Google Gemini API
+- Claude API
+- Groq Llama 3
 
 ---
 
