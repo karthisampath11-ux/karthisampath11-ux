@@ -16,7 +16,7 @@
 
 •
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/karthi-keyan-ai">
 LinkedIn
 </a>
 
