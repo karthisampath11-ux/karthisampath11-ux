@@ -80,31 +80,39 @@
 ## 🚀 Featured Projects
 
 ### 🌐 Karthikeyan Portfolio
-Modern responsive portfolio built with HTML, CSS and JavaScript.
+A modern personal portfolio showcasing my skills, projects, certifications, and experience with a responsive design built using HTML, CSS, and JavaScript.
 
+**Live Demo:**  
 🔗 https://karthikeyan-portfolio-rust.vercel.app/
 
+**Source Code:**  
 📂 https://github.com/karthisampath11-ux/karthikeyan-portfolio
+
+---
+
+### 🤖 Modex GenAI Training
+
+Hands-on Generative AI training repository featuring prompt engineering, structured outputs, LLM evaluation, Gemini API integration, multi-model comparisons, JSON validation, and real-world AI experiments.
+
+**Source Code:**  
+📂 https://github.com/karthisampath11-ux/modex-genai-training
 
 ---
 
 ### 📊 Netflix Power BI Dashboard
 
-Interactive dashboard analyzing Netflix content performance.
+Interactive Power BI dashboard analyzing Netflix content performance, genre distribution, and director insights using Power BI, Power Query, and DAX.
 
+**Source Code:**  
 📂 https://github.com/karthisampath11-ux/Netflix-PowerBI-Dashboard
 
 ---
 
-### 🤖 GenAI Compliance Extraction System
+### 🦺 Real-Time PPE Compliance Monitoring
 
-Built a multi-model AI pipeline using Gemini, Claude and Llama with structured outputs and evaluation.
+AI-powered computer vision project using YOLOv8 and OpenCV to detect personal protective equipment compliance in real time.
 
----
-
-### 🦺 PPE Compliance Monitoring
-
-Real-time PPE detection using YOLOv8 and OpenCV.
+> 🚧 Repository will be published soon.
 ---
 
 # 📈 GitHub Statistics
