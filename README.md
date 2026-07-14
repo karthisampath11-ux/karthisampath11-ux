@@ -31,48 +31,50 @@
 🚀 Always learning and building real-world projects.
 
 ---
-## 🛠 Tech Stack
+## 💻 Technologies I Work With
 
 ### Programming
-`Python` `SQL` `MySQL`
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 
 ### Artificial Intelligence
-`Generative AI` `Machine Learning` `Deep Learning` `Computer Vision`
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-8E24AA?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C2D91?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-4285F4?style=flat-square)
 
 ### Large Language Models
-`Google Gemini API` `Claude API` `Groq Llama 3`
 
-### Generative AI
-`Prompt Engineering` `Structured Outputs` `LLM Evaluation`
-`Pydantic` `JSON Schema Validation`
+![Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google)
+![Claude](https://img.shields.io/badge/Claude-111111?style=flat-square)
+![Llama 3](https://img.shields.io/badge/Llama_3-0088CC?style=flat-square)
+
+### Prompt Engineering
+
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-7B61FF?style=flat-square)
+![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-0A66C2?style=flat-square)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-E65100?style=flat-square)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat-square)
+![JSON Schema](https://img.shields.io/badge/JSON_Schema-009688?style=flat-square)
 
 ### Data Analytics
-`Power BI` `Power Query` `DAX`
-`Dashboard Development` `Data Visualization`
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power_Query-217346?style=flat-square)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square&logoColor=black)
+![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-3949AB?style=flat-square)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E88E5?style=flat-square)
 
 ### Tools
-`Git` `GitHub` `VS Code`
-`MySQL Workbench`
-`Power BI Desktop`
 
----
-
-### 🧠 AI & Machine Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- OpenCV
-
----
-
-### 🚀 LLM Platforms
-
-- Google Gemini API
-- Claude API
-- Groq Llama 3
-
----
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=flat-square)
+![Power BI Desktop](https://img.shields.io/badge/Power_BI_Desktop-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 # 🚀 Featured Projects
 
