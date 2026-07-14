@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karthikeyan</h1>
 
 <h3 align="center">
-🎓 B.Tech in AI & Data Science Graduate
+🎓 B.Tech Graduate IN  AI & Data Science 
 </h3>
 
 <p align="center">
